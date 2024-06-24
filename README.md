@@ -1,2 +1,2 @@
-# TikTacToe
-A Simple TikTacToe with an AI-Opponent
+# TicTacToe
+A Simple TicTacToe with an AI-Opponent
